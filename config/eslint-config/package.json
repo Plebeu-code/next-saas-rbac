@@ -8,5 +8,10 @@
     "./next-js": "./next.js",
     "./node-js": "./noed.js"
   },
-  "devDependencies": {}
+  "dependencies": {
+    "@rocketseat/eslint-config": "^2.2.2"
+  },
+  "devDependencies": {
+    "eslint-plugin-simple-import-sort": "^12.1.1"
+  }
 }
